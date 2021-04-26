@@ -1,0 +1,4 @@
+Interface include declaring custom types and also method signatures.
+Class we can used to create custome type with constructor and also method implementation.
+Program to Interfaces means first declare the interfaces without method implementation and in the
+class we define the implementation

@@ -1,0 +1,4 @@
+# Project exclude paths
+/Practice/enums.js
+/premier/node_modules/
+/webapp/node_modules/
